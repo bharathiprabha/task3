@@ -1,0 +1,22 @@
+nav ul li{
+    display: inline-block;
+    padding:0px 10px;
+}
+.hov{
+    box-shadow: 0 0 20px grey;
+    transition: all 0.3s;
+}
+.hov:hover{
+    color:white;
+    background-color:grey;
+}
+.reg{
+    box-shadow:0 0 20px grey;
+    border-radius:75px;
+}
+.fn{
+    margin-top:40px;
+}
+.about-us{
+    background-color:grey;    
+}
